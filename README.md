@@ -7,44 +7,35 @@ The turbulent range is calculated using the Colebrook-White formulation.
 
 Formulations include (in alphabetical order):
 <ol>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-  <li>Milk</li>
-  <li>Milk</li>
-  <li>Milk</li>
-  <li>Milk</li>
-  <li>Milk</li>
-  <li>Milk</li>
+  <li>Avci</li>
+  <li>Barr</li>
+  <li>Brkic 1</li>
+  <li>Brkic 2</li>
+  <li>Buzelli</li>
+  <li>Chen</li>
+  <li>Churchill</li>
+  <li>Davidson</li>
+  <li>Eck</li>
+  <li>Fang</li>
+  <li>Goudar 1</li>
+  <li>Goudar 2</li>
+  <li>Haaland</li>
+  <li>Manadilly</li>
+  <li>Moody</li>  
+  <li>Newton-Raphson</li>  
+  <li>Papaevangelou</li>  
+  <li>Rao</li>  
+  <li>Romeo</li>  
+  <li>Rough (only for rough pipe flow)</li>  
+  <li>Round</li>  
+  <li>Serghides 1</li>   
+  <li>Serghides 2</li>   
+  <li>Slamashi</li>   
+  <li>Sonnad</li>   
+  <li>Swamee & Jain</li>   
+  <li>Swamee & Rathie</li> 
+  <li>Vak</li> 
+  <li>Wood</li> 
+  <li>Zigrang 1</li>  
+  <li>Zigrang 2</li>  
 </ol>
-<li> Avci </li>
-Barr
-Brkic 1
-Brkic 2
-Buzelli
-Chen
-Churchill
-Davidson
-Eck
-Fang
-Goudar 1
-Goudar 2
-Haaland
-Manadilly
-Moody
-Newton-Raphson
-Papaevangelou
-Rao
-Romeo
-Rough (only for rough pipe flow)
-Round
-Serghides 1
-Serghides 2
-Slamashi
-Sonnad
-Swamee & Jain
-Swamee & Rathie
-Vak
-Wood
-Zigrang 1
-Zigrang 2
